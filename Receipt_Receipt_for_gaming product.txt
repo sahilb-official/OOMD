@@ -1,0 +1,11 @@
+--- EwasteX Transaction Receipt ---
+=====================================
+Transaction ID: Receipt_for_gaming product
+Product: gaming product
+-------------------------------------
+Sold By: kunal (ID: S001)
+Purchased By: sagar (ID: B002)
+-------------------------------------
+Final Amount: $90
+Status: COMPLETED
+=====================================

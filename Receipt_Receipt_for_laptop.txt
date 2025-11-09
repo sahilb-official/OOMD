@@ -1,0 +1,11 @@
+--- EwasteX Transaction Receipt ---
+=====================================
+Transaction ID: Receipt_for_laptop
+Product: laptop
+-------------------------------------
+Sold By: sahil (ID: S001)
+Purchased By: om (ID: B002)
+-------------------------------------
+Final Amount: $90
+Status: COMPLETED
+=====================================

@@ -1,0 +1,11 @@
+--- EwasteX Transaction Receipt ---
+=====================================
+Transaction ID: T555
+Product: speaker
+-------------------------------------
+Sold By: ashitosh (ID: S001)
+Purchased By: saurabh (ID: B002)
+-------------------------------------
+Final Amount: $80
+Status: COMPLETED
+=====================================
